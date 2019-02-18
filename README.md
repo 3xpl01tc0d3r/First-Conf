@@ -1,2 +1,2 @@
 # First-Conf
-Presentation - https://www.first.org/events/colloquia/bangalore2019/
+https://www.first.org/events/colloquia/bangalore2019/
